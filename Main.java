@@ -8,7 +8,7 @@ public class Main {
         for(var control : controls )
              control.render();
         
-
+      
 
         // var point1 = new Point(1, 2);
         // var point2 = new Point(1, 2);

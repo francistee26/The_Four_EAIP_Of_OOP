@@ -7,7 +7,7 @@ public abstract class UIControl {
     //     this.isEnabled = isEnabled;
     //    // System.out.println();
     // }
-
+      
     public abstract void render ();
 
     public void enabled (){

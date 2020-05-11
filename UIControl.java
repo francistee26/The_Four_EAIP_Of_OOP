@@ -19,7 +19,7 @@ public abstract class UIControl {
     }
     
     public boolean isEnabled (){
-        return isEnabled;
+         return isEnabled;
     }
     
 }
